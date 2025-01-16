@@ -1,7 +1,7 @@
 # InsightGen - AI-based E-commerce Customer Behavior Analysis  
 InsightGen is a Retrieval-Augmented Generation (RAG) application designed to analyze and generate insights from an E-commerce Customer Behavior Dataset. It provides businesses with actionable insights into customer purchasing patterns, preferences, and behavior based on various demographic factors like age, gender, location, and purchase history.  
 ## Objective  
-The goal of InsightGen is to empower businesses with valuable insights by analyzing customer data.By leveraging the **RAG Framework** and advanced AI techniques, the app identifies trends and provides recommendations to improve customer engagement and sales strategies.
+The goal of **InsightGen** is to empower businesses with valuable insights by analyzing customer data.By leveraging the **RAG Framework** and advanced AI techniques, the app identifies trends and provides recommendations to improve customer engagement and sales strategies.
 
 ## **Key Features**
 - **Customer Behavior Analysis**: Analyzes customer data, including age, gender, location, and purchase history.
